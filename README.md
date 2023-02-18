@@ -1,5 +1,5 @@
 # PengalamanBelajar
-Repository Ini Berisi Pengalaman Belajar di Dicoding dengan Membuat Branch Baru
+Repository Ini Berisi Pengalaman Belajar di Dicoding dengan Membuat Branch Baru dan Pull Request
 
 **14 Juni 2021**  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
